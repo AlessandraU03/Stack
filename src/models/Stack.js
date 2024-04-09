@@ -1,6 +1,6 @@
 import { Node } from "./Node.js";
 
-export class StackLinked {
+export class Stack {
 
     constructor() {
         this.top = null;
